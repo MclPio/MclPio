@@ -11,5 +11,8 @@ I am a product focused software developer specializing in **Ruby on Rails**.
 ### Experience
 * In a prior contract, I shipped full-stack, revenue-generating features for a large-scale application (300+ models) using Rails and React.
 
-* **Website**: [michaelpious.com](https://www.michaelpious.com)
-* **Contact**: hey@stencil-ai.xyz
+---
+
+[Blog](https://www.michaelpious.com)
+
+[Contact](hey@stencil-ai.xyz)
