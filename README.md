@@ -1,6 +1,6 @@
-Hello World.
+Hello World. I'm **Michael**.
 
-I build products with Ruby on Rails and AI. I am obsessed with efficiency, in code and in execution.
+I am a product focused software developer specializing in **Ruby on Rails**.
 
 ---
 
@@ -11,12 +11,5 @@ I build products with Ruby on Rails and AI. I am obsessed with efficiency, in co
 ### Experience
 * In a prior contract, I shipped full-stack, revenue-generating features for a large-scale application (300+ models) using Rails and React.
 
-### Core Technologies
-* **Backend**: Ruby on Rails, PostgreSQL, MySQL
-* **Frontend**: React, Hotwire (Turbo/Stimulus)
-* **DevOps**: Docker, Kamal, Git
-
----
-
 * **Website**: [michaelpious.com](https://www.michaelpious.com)
-* **Contact**: support@stencil-ai.xyz
+* **Contact**: hey@stencil-ai.xyz
