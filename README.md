@@ -28,4 +28,4 @@ I'm currently focused on building tools in the AI and developer productivity spa
 ### Let's Connect
 
 - 📝 **Blog:** [michaelpious.com](https://michaelpious.com)
-- 📧 **Contact:** [michaelpious@outlook.com](mailto:hey@stencil-ai.xyz)
+- 📧 **Contact:** [hey@stencil-ai.xyz](mailto:hey@stencil-ai.xyz)
