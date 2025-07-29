@@ -1,18 +1,31 @@
-Hello World. I'm **Michael**.
+### Hello, I'm Michael ✌️
 
-I am a product-focused software developer specializing in **Ruby on Rails**. I am obsessed with efficiency, in code and in execution.
+I'm a product-focused software developer who ships full-stack applications from concept to production. I'm driven to build efficient, high-value solutions to real-world problems.
 
 ---
 
-### Current Work
-* **[stencil-ai.xyz](https://stencil-ai.xyz/)**: Founder & Developer. A specialized LLM chat application using Rails 8 and Hotwire.
-* **[open_router_usage_tracker](https://rubygems.org/gems/open_router_usage_tracker)**: Author. A reusable Rails Engine to monitor LLM API costs.
+### What I'm Building
+
+I'm currently focused on building tools in the AI and developer productivity space.
+
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| ✨ **stencil-ai.xyz** | A deployed LLM workflow platform for concurrent, real-time analysis. | **[Live Website](https://stencil-ai.xyz)** |
+| 💎 **Open Router Usage Tracker** | A Rails Engine for multi-provider LLM cost tracking and rate-limiting. | **[GitHub Repo](https://github.com/MclPio/open_router_usage_tracker)** • **[RubyGems](https://rubygems.org/gems/open_router_usage_tracker)** |
+| 🐍 **Tunacode Contribution** | Contributed a Python-based cost and usage tracking module to a CLI coding agent. | **[View Contribution](https://github.com/MclPio/tunacode)** |
+
+---
 
 ### Core Technologies
-* **Backend**: Ruby on Rails, PostgreSQL, MySQL
-* **Frontend**: React, Hotwire (Turbo/Stimulus)
-* **DevOps**: Docker, Kamal, Git
+
+- **Languages:** Ruby, JavaScript, Python, SQL, HTML/CSS
+- **Backend:** Ruby on Rails, PostgreSQL, SolidQueue, Action Cable, Minitest, Pytest
+- **Frontend:** React, Hotwire (Turbo/Stimulus), Jest, Tailwind CSS
+- **Infrastructure & DevOps:** Docker, Kamal, Git, AWS S3, Fly.io, RubyGems
 
 ---
 
-[Blog](https://www.michaelpious.com) ⋅ [Contact](mailto:hey@stencil-ai.xyz)
+### Let's Connect
+
+- 📝 **Blog:** [michaelpious.com](https://michaelpious.com)
+- 📧 **Contact:** [michaelpious@outlook.com](mailto:hey@stencil-ai.xyz)
