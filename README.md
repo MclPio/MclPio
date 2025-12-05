@@ -10,7 +10,7 @@ I'm currently focused on building tools in the AI and developer productivity spa
 
 | Project | Description | Links |
 | :--- | :--- | :--- |
-| ✨ **stencil-ai.xyz** | A deployed LLM workflow platform for concurrent, real-time analysis. | **[Live Website](https://stencil-ai.xyz)** |
+| ✨ **stencil-ai.xyz** | A deployed LLM workflow platform for concurrent, real-time analysis. | **[Archive](https://github.com/MclPio/stencil-ai)** |
 | 💎 **Open Router Usage Tracker** | A Rails Engine for multi-provider LLM cost tracking and rate-limiting. | **[GitHub Repo](https://github.com/MclPio/open_router_usage_tracker)** • **[RubyGems](https://rubygems.org/gems/open_router_usage_tracker)** |
 | 🐍 **Tunacode Contribution** | Contributed a Python-based cost and usage tracking module to a CLI coding agent. | **[View Contribution](https://github.com/MclPio/tunacode)** |
 
