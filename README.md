@@ -1,7 +1,5 @@
 ### Hi, I'm Michael
 
-I build all kinds of stuff.
-Ruby on Rails, React, iOS.
-
-- 📝 **Blog:** [michaelpious.com](https://michaelpious.com)
-- 📧 **Contact:** [hey@stencil-ai.xyz](mailto:hey@stencil-ai.xyz)
+- **Freelance** [michaelpious.com](https://michaelpious.com)
+- **Blog:** [blog.michaelpious.com](https://blog.michaelpious.com)
+- **Contact:** [hey@michaelpious.com](mailto:hey@michaelpious.com)
