@@ -1,6 +1,6 @@
 # Hi, I'm Michael
 
-I usually work with Ruby on Rails and React, and I enjoy the challenge of building products especially so when I have to balance quality > scope and time to develop.
+I usually work with Ruby on Rails and React, and I enjoy building products where I have to balance quality, scope, and time.
 
 I’ve also worked with Hotwire, Python, data-heavy workflows, and iOS app development.
 
