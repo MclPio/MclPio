@@ -1,5 +1,19 @@
-### Hi, I'm Michael
+# Hi, I'm Michael
 
-- **Freelance** [michaelpious.com](https://michaelpious.com)
-- **Blog:** [blog.michaelpious.com](https://blog.michaelpious.com)
-- **Contact:** [hey@michaelpious.com](mailto:hey@michaelpious.com)
+I usually work with Ruby on Rails and React, and I like product engineering work that has to be useful in practice.
+
+I’ve also worked with Hotwire, Python, data-heavy workflows, and iOS app development.
+
+Some of my work:
+- Built and shipped [Toki Pop](https://apps.apple.com/ca/app/toki-pop/id6758680590), an iOS clock widget app.
+- Built [`open_router_usage_tracker`](https://github.com/MclPio/open_router_usage_tracker), a Rails engine for AI provider usage and cost tracking.
+- Contributed token and cost tracking to an AI coding CLI [`tunacode`](https://github.com/alchemiststudiosDOTai/tunacode/pull/45)
+
+More of my work:
+- [L1NA Photo Filter](https://l1na.netlify.app/) turns your pictures into an artifact and runs locally in the browser.
+- [Method Hiring](https://methodhiring.netlify.app/) is an AI job applicant grader focused on structured, fairer review. Work in progress [video demo](https://x.com/odincode/status/2027143846899884387?s=20).
+- [ghost-signal](https://ghost-signal.netlify.app/) my attempt at digital art.
+
+Freelance: [michaelpious.com](https://michaelpious.com)  
+Blog: [blog.michaelpious.com](https://blog.michaelpious.com)  
+Contact: [hey@michaelpious.com](mailto:hey@michaelpious.com)  
