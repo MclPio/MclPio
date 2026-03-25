@@ -2,7 +2,7 @@
 
 I usually work with Ruby on Rails and React, and I enjoy building products where I have to balance quality, scope, and time
 
-I’ve also worked with Hotwire, Python, data-heavy workflows, and iOS app development
+I’ve also worked with Hotwire, Python, data workflows, and iOS app development
 
 Some of my work:
 - Built a local library search prototype using Python, SQLite FTS5, and embeddings for natural language search
