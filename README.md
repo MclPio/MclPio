@@ -5,6 +5,8 @@ I usually work with Ruby on Rails and React, and I enjoy building products where
 I’ve also worked with Hotwire, Python, data-heavy workflows, and iOS app development
 
 Some of my work:
+- Built a local library search prototype using Python, SQLite FTS5, and embeddings for natural language search
+- Built and shipped a workflow for a LegalTech client product that supported revenue and operations
 - Built and shipped [Toki Pop](https://apps.apple.com/ca/app/toki-pop/id6758680590), an iOS clock widget app
 - Built [`open_router_usage_tracker`](https://github.com/MclPio/open_router_usage_tracker), a Rails engine for AI provider usage and cost tracking
 - Contributed token and cost tracking to an AI coding CLI [`tunacode`](https://github.com/alchemiststudiosDOTai/tunacode/pull/45)
