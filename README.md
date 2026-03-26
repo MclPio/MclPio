@@ -1,5 +1,13 @@
 # Hi, I'm Michael
 
+## 🟢 Available for Hire
+
+I take on **Ruby on Rails** freelance work => feature builds, API integrations, MVP builds, and AI integrations.
+
+📬 [hey@michaelpious.com](mailto:hey@michaelpious.com) · 🌐 [michaelpious.com](https://michaelpious.com)
+
+---
+
 I usually work with Ruby on Rails and React, and I enjoy building products where I have to balance quality, scope, and time
 
 I’ve also worked with Hotwire, Python, data workflows, and iOS app development
@@ -19,3 +27,4 @@ More of my work:
 Freelance: [michaelpious.com](https://michaelpious.com)  
 Blog: [blog.michaelpious.com](https://blog.michaelpious.com)  
 Contact: [hey@michaelpious.com](mailto:hey@michaelpious.com)  
+### available for hire
