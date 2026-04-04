@@ -23,7 +23,6 @@ Some of my work:
 More of my work:
 - [L1NA Photo Filter](https://l1na.netlify.app/) turns your pictures into an artifact and runs locally in the browser
 - [Method Hiring](https://methodhiring.netlify.app/) is an AI job applicant grader focused on structured, fairer review. Work in progress [video demo](https://x.com/odincode/status/2027143846899884387?s=20)
-- [ghost-signal](https://ghost-signal.netlify.app/) my attempt at digital art (for now only works on PC)
 
 Freelance: [michaelpious.com](https://michaelpious.com)  
 Blog: [blog.michaelpious.com](https://blog.michaelpious.com)  
