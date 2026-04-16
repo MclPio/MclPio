@@ -27,3 +27,7 @@ More of my work:
 Freelance: [michaelpious.com](https://michaelpious.com)  
 Blog: [blog.michaelpious.com](https://blog.michaelpious.com)  
 Contact: [hey@michaelpious.com](mailto:hey@michaelpious.com)  
+
+---
+
+<img width="1440" height="480" alt="ARC-26106-2200-3x1" src="https://github.com/user-attachments/assets/7f72c159-65c5-4aae-8232-0d38f31b8114" />
